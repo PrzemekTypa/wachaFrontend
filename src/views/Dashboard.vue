@@ -117,40 +117,11 @@
           </section>
 
           <section id="favorites" class="section mb-5 slideInUp">
-            <h3>Ulubione stacje</h3>
-            <p><strong>Stacja Paliw Falcon Legnica - Falcon Paliwa Sp. z o.o.</strong></p><br>
-            <p>
-              <strong>Godziny otwarcia:</strong><br><br>
-              niedziela 06:00–22:00<br>
-              poniedziałek 06:00–22:00<br>
-              wtorek 06:00–22:00<br>
-              środa 06:00–22:00<br>
-              czwartek 06:00–22:00<br>
-              piątek 06:00–22:00<br>
-              sobota 06:00–22:00
-            </p><br><br>
-            <p><strong>Stacja Paliw Falcon Legnica - Falcon Paliwa Sp. z o.o.</strong></p><br>
-            <p>
-              <strong>Godziny otwarcia:</strong><br><br>
-              niedziela 06:00–22:00<br>
-              poniedziałek 06:00–22:00<br>
-              wtorek 06:00–22:00<br>
-              środa 06:00–22:00<br>
-              czwartek 06:00–22:00<br>
-              piątek 06:00–22:00<br>
-              sobota 06:00–22:00
-            </p>
+            
           </section>
 
           <section id="history" class="section mb-5 slideInUp">
-            <h3>Historia</h3>
-            <p>12.12.2024 - Zaproponowanie Ceny dla stacji Falcon Legnica - Falcon Paliwa Sp. z o.o: Benzyna, 5 zł</p>
-            <p>16.12.2024 - Zaproponowanie Ceny dla stacji Falcon Legnica - Falcon Paliwa Sp. z o.o: Gaz, 3 zł</p>
-            <p>19.12.2024 - Zaproponowanie Ceny dla stacji Falcon Legnica - Falcon Paliwa Sp. z o.o: Benzyna, 4.9 zł</p>
-            <p>24.12.2024 - Zaproponowanie Ceny dla stacji Falcon Legnica - Falcon Paliwa Sp. z o.o: Benzyna, 4.95  zł</p>
-            <p>01.01.2024 - Zaproponowanie Ceny dla stacji Falcon Legnica - Falcon Paliwa Sp. z o.o: Benzyna, 5 zł</p>
-            <p>11.01.2024 - Zaproponowanie Ceny dla stacji Falcon Legnica - Falcon Paliwa Sp. z o.o: Benzyna, 4.95  zł</p>
-            <p>13.01.2024 - Zaproponowanie Ceny dla stacji Falcon Legnica - Falcon Paliwa Sp. z o.o: Benzyna, 5.1 zł</p>
+          
           </section>
 
           <section id="userdata" class="section mb-5 slideInUp">
