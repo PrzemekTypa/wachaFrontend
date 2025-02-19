@@ -4,7 +4,7 @@
     <div class="sidebar">
       <div class="profile-info text-center">
         <img
-            src="@/assets/Dominik.jpg"
+            src="@/assets/avatar.jpg"
             alt="Avatar"
             class="avatar img-fluid rounded-circle fadeIn">
         <h4 class="username mt-4 fw-bold fadeIn">{{ user ? user.data.name : 'Ładowanie...' }}</h4>
